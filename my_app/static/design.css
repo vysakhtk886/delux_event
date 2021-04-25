@@ -1,0 +1,37 @@
+body{
+    background-image: url(image/bg2.jpg);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn-outline-success{
+    border: 0px;
+    color: white;
+}
+.btn-outline-success:hover {
+color: #fff;
+background-color: rgb(255, 81, 0);
+}
+.bg-dark {
+background-color: rgb(0 0 0 / 0%)!important;
+}
+h2{
+    margin-top: 150px;
+    font-weight: 900;
+    font-size: 70px;
+}
+h1{
+    font-size: 80px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: rgb(255, 81, 0);
+    border-color: rgb(255, 81, 0);
+    border-radius: 100px;
+}
+.btn-outline-primary {
+    color: white;
+    border-color:  rgb(255, 81, 0);
+    border-radius: 100px;
+}
