@@ -5,3 +5,5 @@ def Testfn(request):
     return HttpResponse('hloooo')
 def html1(request):
     return render(request,'home.html')
+def html2(request):
+    return render(request,'login_page.html')
