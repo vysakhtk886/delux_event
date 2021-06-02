@@ -3,7 +3,9 @@ from django.http import HttpResponse
 # Create your views here.
 # def Testfn(request):
 #     return HttpResponse('hloooo')
-def html1(request):
+def home(request):
     return render(request,'home.html')
-def html2(request):
+def login(request):
     return render(request,'login_page.html')
+def register(request):
+    return render(request,'registration_page.html')

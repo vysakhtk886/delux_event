@@ -6,7 +6,7 @@ input {
 }
 table {
     padding: 10px;
-    margin-top: 180px;
+    margin-top: 150px;
     background: rgba(12, 3, 3, 0.4);;
     
 }
@@ -17,7 +17,7 @@ table {
     color: white;
 }
 body {
-    background-image: url("image/bg\ 1.jpg");
+    background-image: url("image/blurred-background-1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
